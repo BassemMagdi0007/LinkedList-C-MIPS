@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1575372640 source:e:\collage\third year\term 1\computer organization\project\c-code\linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1575066094 e:\collage\third year\term 1\computer organization\project\c-code\linked_list\list.c
+	"list.h"
+
+1575071042 e:\collage\third year\term 1\computer organization\project\c-code\linked_list\list.h
+
+1575372676 source:e:\collage\third year\term 1\computer organization\project\c-code\linked_list\list.c
+	<stdlib.h>
+	"list.h"
+
+1575563712 source:c:\users\ahmed salah\desktop\linked_list\list.c
+	<stdlib.h>
+	"list.h"
+
+1575563712 c:\users\ahmed salah\desktop\linked_list\list.h
+
+1575563712 source:c:\users\ahmed salah\desktop\linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1575734453 source:d:\fci_h\computer organization\project\linked_list\list.c
+	<stdlib.h>
+	"list.h"
+
+1575563712 d:\fci_h\computer organization\project\linked_list\list.h
+
+1575563712 source:d:\fci_h\computer organization\project\linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1575830594 source:g:\college\ca\c-code\linked_list\list.c
+	<stdlib.h>
+	"list.h"
+
+1575830594 g:\college\ca\c-code\linked_list\list.h
+
+1608654472 source:g:\college\ca\c-code\linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
