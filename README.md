@@ -2,7 +2,7 @@
 Mapping the linked-list data structure scripted in C to MIPS assembly language
 -------------------------------------------------------------------------------
 
-To run MIPS code
+To run MIPS code:<br />
   1- Download 'java runtime environment' and instal it on your device.<br />
   2- Download 'Mars MIPS simulator': http://courses.missouristate.edu/kenvollmar/mars/.<br />
   3- Open the 'Mars.jar' and locate the '.asm' file.<br />
