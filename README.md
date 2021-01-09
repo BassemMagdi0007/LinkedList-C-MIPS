@@ -1,5 +1,5 @@
 # LinkedList-C-MIPS
-Mapping the linked-list data structure scripted in C to MIPS assembly language
+Mapping the linked-list data structure scripted in C into MIPS assembly language
 -------------------------------------------------------------------------------
 
 To run MIPS code:<br />
