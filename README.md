@@ -25,21 +25,28 @@ It implements various operations on a singly linked list in MIPS assembly langua
 ## Functions
 
 - Insertion
-The Insert_To_List function allows the user to insert a new element into the linked list at a specified position. It handles the insertion process, including updating pointers and managing the list size.
+  - The **Insert_To_List** function allows the user to insert a new element into the linked list at a specified position. It handles the insertion process, including updating pointers and managing the list size.
+
 - Deletion
-The Delete_From_List function enables the user to delete an element from the linked list at a specified position. It handles various edge cases, such as deleting from an empty list or at an invalid position.
+  - The **Delete_From_List** function enables the user to delete an element from the linked list at a specified position. It handles various edge cases, such as deleting from an empty list or at an invalid position.
+
 - Printing
-The Print_The_List function prints the elements of the linked list. It traverses the list and outputs each element, separated by a predefined separator.
+  - The **Print_The_List** function prints the elements of the linked list. It traverses the list and outputs each element, separated by a predefined separator.
+
 - Searching
-The Search_The_List function allows the user to search for a specific element in the linked list. It prompts the user for a value and performs a linear search to find the element's position.
+  - The **Search_The_List** function allows the user to search for a specific element in the linked list. It prompts the user for a value and performs a linear search to find the element's position.
+
 - Updating
-The Update_The_List function updates the value of an element in the linked list at a specified position. It scans for a new value and updates the corresponding node.
+  - The **Update_The_List** function updates the value of an element in the linked list at a specified position. It scans for a new value and updates the corresponding node.
+
 - Accessing
-The Access_The_List function retrieves and prints the data value of a node in the linked list at a specified position. It prompts the user for a position and displays the corresponding element.
+  - The **Access_The_List** function retrieves and prints the data value of a node in the linked list at a specified position. It prompts the user for a position and displays the corresponding element.
+
 - Sorting
-The Sort_The_List function implements a basic bubble sort algorithm to sort the linked list in ascending order based on the data values of its nodes.
+  - The **Sort_The_List** function implements a basic bubble sort algorithm to sort the linked list in ascending order based on the data values of its nodes.
+
 - Global Functions
-Several global functions are used for user input and error handling. These include functions for scanning input, scanning values for insertion, scanning positions for access, printing messages, and handling errors.
+  - Several global functions are used for user input and error handling. These include functions for scanning input, scanning values for insertion, scanning positions for access, printing messages, and handling errors.
 
 ## Output Format
 <img width="333" alt="image" src="https://github.com/BassemMagdi0007/LinkedList-C-MIPS/assets/60258792/78f6c7ad-290b-47bb-adef-fcadf7098cfb">
