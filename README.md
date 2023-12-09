@@ -1,9 +1,9 @@
 # Mapping the linked-list data structure scripted in C into MIPS assembly language
 
-### Overview
+### Overview:
 This project involves the translation of a linked-list data structure implemented in the C programming language into the MIPS assembly language.
 
-### Execution Instructions
+### Execution Instructions:
 To run the MIPS code, follow the steps outlined below:
 
 - **Java Runtime Environment (JRE):** Ensure that the 'Java Runtime Environment' is installed on your system.
