@@ -1,7 +1,5 @@
 # Mapping the linked-list data structure scripted in C into MIPS assembly language
 
-## Overview:
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Functions](#functions)
